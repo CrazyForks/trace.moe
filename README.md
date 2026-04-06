@@ -90,7 +90,7 @@ You can also increase `MAX_WORKER` to make hashing faster.
 
 > Loading all 100,000+ files to memory requires about 160GB RAM
 
-1. Download the pre-hashed data here: [trace.moe database dump 2025-10](https://nyaa.si/view/2029214)
+1. Download the database dump.sql.zst on https://huggingface.co/datasets/soruly/trace.moe-database-dump
 
 2. Install zstd
 
